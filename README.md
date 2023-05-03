@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=500&size=35&duration=3500&pause=1000&color=33FFFF&center=true&width=435&lines=Fullstack+Developer;Blockchain+Developer;Tech+Enthusiast" alt="Typing SVG" /></a>
+
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
